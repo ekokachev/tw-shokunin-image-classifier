@@ -1,0 +1,8 @@
+synimg.zip
+synimg/
+
+trained_models/*
+predictions/*
+
+!.gitkeep
+__pycache__/
